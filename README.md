@@ -21,8 +21,8 @@ This project is an advanced keylogger that records keystrokes, takes screenshots
 1. **Clone the Repository**: 
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/MohammedNihadv/Keylogger
+    cd keylogger.py
     ```
 
 2. **Install Required Libraries**: 
