@@ -1,6 +1,6 @@
 # Keylogger
  
-# Advanced Keylogger with Keystrokes, Screenshots, and Audio Recording
+# Keylogger with Keystrokes, Screenshots, and Audio Recording
 
 This project is an advanced keylogger that records keystrokes, takes screenshots, and records audio. It is intended for ethical use cases, such as security monitoring and testing, within the bounds of legality and user consent.
 
